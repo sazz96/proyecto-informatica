@@ -1,7 +1,7 @@
 proyecto-informatica
 ====================
 
-El tema es sobre trata sobre las siete maravillas del mundo y la opinión de sus visitantes.
+El tema es sobre  las siete maravillas del mundo y la opinión de sus visitantes.
 
 integrantes
 ===========
