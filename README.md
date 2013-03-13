@@ -1,4 +1,25 @@
 proyecto-informatica
 ====================
 
-El tema se trata sobre las siete maravillas del mundo y la opinión de sus visitantes
+El tema es sobre trata sobre las siete maravillas del mundo y la opinión de sus visitantes.
+
+integrantes
+===========
+
+Stevens Zapata
+Ricardo Ardila
+Andry Fajardo
+Kamila Molina
+Jorge Garcia
+Jean  Perpiñan
+
+links
+=======
+
+
+
+
+Porcentaje
+==========
+
+7%
